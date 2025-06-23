@@ -1,0 +1,59 @@
+body{
+   font-family: Arial, Helvetica, sans-serif;
+   margin: 40px;
+   background-color: gray;
+}
+
+
+h1{
+    text-align: center;
+    color: brown;
+}
+ form{
+    background: white;
+    padding: 15px;
+    margin-bottom: 10px;
+   
+ }
+
+#postContainer > div{
+    background-color:red ;
+    padding: 10px;
+}
+
+
+ input,textarea{
+    display: block;
+    width: 200px;
+    padding: 8px;
+    margin-bottom: 10px;
+ }
+
+#new-post-form {
+  flex: 1;
+  display: flex;
+  gap: 0.5rem;
+
+}
+
+#post-detail{
+flex: 2;
+  background-color: rgb(253, 215, 201);
+  padding: 1rem;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+
+
+ button{
+    background-color: brown;
+    padding: 10px;
+ }
+
+ #post-detail{
+    background-color: rgb(255, 0, 119);
+    padding: 15px;
+    margin-top: 20px;
+ }
+
+ 
