@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First blog post",
+      "content": "getting ready with javascript.",
+      "image": "photo-tech.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Learning JSON Server",
+      "content": "This is a test post to explore REST APIs.",
+      "image": "photo-placeholder.jpg"
+    }
+  ]
+}
